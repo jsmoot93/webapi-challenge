@@ -34,7 +34,7 @@ A. An array of functions that get executed in the order they are introduced into
 
 - [ ] Describe a Resource?
 
-A. 
+A. Whatever thing is accessed by the URL you supply
 
 - [ ] What can the API return to help clients know if a request was successful?
 
