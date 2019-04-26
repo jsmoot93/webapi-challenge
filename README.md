@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+A. require(), and middleware
+
 - [ ] Describe Middleware?
+
+A. An array of functions that get executed in the order they are introduced into the server code.
 
 - [ ] Describe a Resource?
 
+A. 
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+A. Status 200
+
 - [ ] How can we partition our application into sub-applications?
+
+A. Use express routers to have mutliple files for specific routes and endpoints.
 
 ## Project Setup
 
